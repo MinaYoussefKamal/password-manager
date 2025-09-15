@@ -25,7 +25,7 @@ Password-Manager/
 │-- main.py
 │-- logo.png
 │-- icon.ico
-│-- data.json.example   # empty example file to show format
+│-- data.json   # example file to show format
 │-- README.md
 ```
 
