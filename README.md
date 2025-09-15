@@ -1,5 +1,8 @@
 # 🔐 Password Manager (Python + Tkinter)
 
+<img width="653" height="526" alt="2025-09-16 00_37_16-Password Manager" src="https://github.com/user-attachments/assets/64470af6-f391-4e72-a478-6964617a125d" />
+
+
 A simple password manager built in **Python** with a clean **dark-themed Tkinter GUI**.
 It can generate secure passwords, save them locally in a JSON file, and retrieve them later with a search function.
 This project helped me practice GUIs, file handling, and improving user experience.
